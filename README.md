@@ -1,2 +1,2 @@
 # jgraph-demo
-demo for jgraph JS
+This repo is a demo sample code using JGraph
